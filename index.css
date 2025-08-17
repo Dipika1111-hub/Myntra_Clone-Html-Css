@@ -177,3 +177,18 @@ height: 250px;
     text-align: end;
     padding: 15px;
 }
+
+.icon_container {
+    display: flex;         /* make items align in a row */
+    gap: 12px;             /* spacing between icons */
+    margin-top: 6px;      /* some spacing from the heading */
+}
+
+.icon_container .icon {
+    width: 30px;           /* icon size */
+    height: 30px;
+   
+}
+
+
+
