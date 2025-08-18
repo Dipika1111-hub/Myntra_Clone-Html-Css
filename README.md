@@ -6,7 +6,6 @@ It is a frontend project built for practice purposes to improve my web developme
 ---
 
 ## 🚀 Features
-- Responsive Homepage Layout  
 - Header and Navigation Bar  
 - Banner Section  
 - Categories Section  
